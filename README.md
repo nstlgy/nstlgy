@@ -1,4 +1,4 @@
-## 📑 Hey there!👋
+![image](https://github.com/luvsense/luvsense/assets/122057887/b5ac9e57-940c-45d2-9729-db4c55049ed1)## 📑 Hey there!👋
 ### I'm Yash, the Code-Loving Caffeine Enthusiast ☕
 
 Third-year CSE student fueled by a passion for crafting websites and apps that seamlessly blend beauty and functionality.  I believe the sweet spot in web development lies where stunning design meets intuitive user experience. Always ready for the thrills of full-stack development and the occasional hackathon adventure (who needs sleep, anyway?).
@@ -8,15 +8,14 @@ Third-year CSE student fueled by a passion for crafting websites and apps that s
 > neofetch
 ```
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://64.media.tumblr.com/8cbcdf293c31c1665d093fabedc8c02d/2971524d014de00f-27/s640x960/6d72e8ce76ce89053f996c09634a3fe4cc364b71.jpg" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+luvsense@github
 -------------------------
-OS: Arch Linux x86_64
+OS: OS: macOS 14.4.1 23E224 arm64
 Shell: zsh 5.8
 Pronouns: He/Him
-Location: Artesia, CA
 Frameworks: React
 Languages: JavaScript, TypeScript,
            HTML, CSS
@@ -25,7 +24,7 @@ Learning: Node.js, Express, PostgreSQL,
 Hobbies: Gardening, Cooking, Gaming
 Commits: 968
 Stars: 14
-Discord: RandomPotato#1377
+Discord: 
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
