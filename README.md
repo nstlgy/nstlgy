@@ -1,4 +1,6 @@
 ## 📑 Hey there!👋
-I'm Yash currently a Third Year CSE Student and an Aspiring Software Developer. Interested in working on Frontend as well as Backend, API's, currently learning about Full Stack Web Development. Occasionally i do participate in Hackathons 💡 and i have a love/hate relationship with programming. I love to pick up skills, network, and am constantly learning something new.
+### Yash, the Code-Loving Caffeine Enthusiast ☕
+
+Third-year CSE student fueled by a passion for crafting websites and apps that seamlessly blend beauty and functionality.  I believe the sweet spot in web development lies where stunning design meets intuitive user experience. Always ready for the thrills of full-stack development and the occasional hackathon adventure (who needs sleep, anyway?).
 
 
