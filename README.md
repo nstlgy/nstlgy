@@ -1,5 +1,6 @@
 ## 📑 Hey there!👋
-### I'm Yash, the anomalous consciousness thriving on the ephemeral sustenance of code and caffeine, existing in a liminal space between the physical and the digital realms.
+### I'm Yash, 
+> the anomalous consciousness thriving on the ephemeral sustenance of code and caffeine, existing in a liminal space between the physical and the digital realms.
 
 Final-year CSE student fueled by a passion for crafting websites and apps that seamlessly blend beauty and functionality.  I believe the sweet spot in web development lies where stunning design meets intuitive user experience. Always ready for the thrills of full-stack development and the occasional hackathon adventure (who needs sleep, anyway?).
 
