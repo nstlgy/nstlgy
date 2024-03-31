@@ -1,4 +1,4 @@
-## 📑 Hey there!👋
+## 📑 Hey there!👋 ![](https://komarev.com/ghpvc/?username=your-github-username)
 ### I'm Yash, 
 > the anomalous consciousness thriving on the ephemeral sustenance of code and caffeine, existing in a liminal space between the physical and the digital realms.
 
@@ -35,3 +35,5 @@ Discord:
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
