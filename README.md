@@ -12,19 +12,19 @@ Final-year CSE student fueled by a passion for crafting websites and apps that s
 <img align="left" src="https://64.media.tumblr.com/8cbcdf293c31c1665d093fabedc8c02d/2971524d014de00f-27/s640x960/6d72e8ce76ce89053f996c09634a3fe4cc364b71.jpg" width="320" /> 
 
 ```csharp
-luvsense@github
+nstlgy@github
 -------------------------
 OS: OS: macOS 14.4.1 23E224 arm64
 Shell: zsh 5.8
 Pronouns: He/Him
-Frameworks: React
+Frameworks/Libraries: React
 Languages: JavaScript, TypeScript,
            HTML, CSS
 Learning: Node.js, Express, PostgreSQL,
           Three.js, CPP
 Hobbies: Gardening, Cooking, Gaming
-Commits: 968
-Stars: 14
+Commits: -
+Stars: -
 Discord: 
 ```
 <p align="left">
