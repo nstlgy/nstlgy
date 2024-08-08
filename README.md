@@ -1,5 +1,5 @@
 ## 📑 Hey there!👋 ![](https://komarev.com/ghpvc/?username=luvsense)
-### I'm Yash, 
+### I'm Nstlgy (Pronounced. Nostalgy), 
 > the anomalous consciousness thriving on the ephemeral sustenance of code and caffeine, existing in a liminal space between the physical and the digital realms.
 
 Final-year CSE student fueled by a passion for crafting websites and apps that seamlessly blend beauty and functionality.  I believe the sweet spot in web development lies where stunning design meets intuitive user experience. Always ready for the thrills of full-stack development and the occasional hackathon adventure (who needs sleep, anyway?).
@@ -31,9 +31,3 @@ Discord:
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
-
-
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
