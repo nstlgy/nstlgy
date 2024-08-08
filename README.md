@@ -14,7 +14,7 @@ Final-year CSE student fueled by a passion for crafting websites and apps that s
 ```csharp
 nstlgy@github
 -------------------------
-OS: OS: macOS 14.4.1 23E224 arm64
+OS: macOS 14.4.1 23E224 arm64
 Shell: zsh 5.8
 Pronouns: He/Him
 Frameworks/Libraries: React
