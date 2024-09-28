@@ -1,9 +1,6 @@
 ## 📑 Hey there!👋 ![](https://komarev.com/ghpvc/?username=luvsense)
 ### I'm Nstlgy (Pronounced. Nostalgy), 
-> the anomalous consciousness thriving on the ephemeral sustenance of code and caffeine, existing in a liminal space between the physical and the digital realms.
-
-Final-year CSE student fueled by a passion for crafting websites and apps that seamlessly blend beauty and functionality.  I believe the sweet spot in web development lies where stunning design meets intuitive user experience. Always ready for the thrills of full-stack development and the occasional hackathon adventure (who needs sleep, anyway?).
-
+the anomalous consciousness thriving on the ephemeral sustenance of code and caffeine, existing in a liminal space between the physical and the digital realms.
 
 ```zsh
 > neofetch
@@ -14,18 +11,6 @@ Final-year CSE student fueled by a passion for crafting websites and apps that s
 ```csharp
 nstlgy@github
 -------------------------
-OS: macOS 14.4.1 23E224 arm64
-Shell: zsh 5.8
-Pronouns: He/Him
-Frameworks/Libraries: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: -
-Stars: -
-Discord: 
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
