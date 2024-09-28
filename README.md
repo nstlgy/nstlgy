@@ -1,4 +1,4 @@
-## 📑 Hey there!👋 ![](https://komarev.com/ghpvc/?username=luvsense)
+## 📑 Hey there!👋
 ### I'm Nstlgy (Pronounced. Nostalgy), 
 the anomalous consciousness thriving on the ephemeral sustenance of code and caffeine, existing in a liminal space between the physical and the digital realms.
 
